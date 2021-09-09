@@ -1,0 +1,41 @@
+@media only screen and (max-width:1200px){  
+
+html{
+	font-size:2em;
+	/*font-size:220%;*/
+}	
+
+img{
+	 height: 132px;
+    width: 150px;
+}
+.container{
+	display: flex;
+    min-height: 49vh;
+    margin: -31px 0px -460px 5px;
+}
+.group1{
+    display: flex;
+    min-height: 48vh;
+    margin: 63px -12px 0px -3px;
+    padding: -10px 0 0 10px;
+    overflow-x: scroll;
+}
+main{
+	background: black;
+    color: white;
+    padding: 9px 23px;
+	height:100vh;
+}
+footer{
+	height:10vh;
+	background-color:black;
+	color:white;	
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	font-family: 'Castoro', serif;
+    font-family: 'Nunito', sans-serif;
+}
+
+}

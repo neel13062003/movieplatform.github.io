@@ -1,0 +1,88 @@
+@media only screen and (max-width:1000px){  
+
+html{
+	font-size:2em;
+	/*font-size:220%;*/
+}
+
+img{
+	 height: 151px;
+    width: 180px;
+}
+
+footer{
+	height:15vh;
+	background-color:black;
+	color:white;	
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	font-family: 'Castoro', serif;
+    font-family: 'Nunito', sans-serif;
+}
+
+#n1{
+	margin: 10px 0px 430px 16px;
+}
+
+#n2{
+	 margin: 4px 0px 170px 18px;
+}
+#n3{
+	margin: 14px 0px 155px 17px;
+}
+#n4{
+    margin: 31px 20px 330px 18px;
+}
+#n5{
+	margin:20px 0px 50px 20px;
+}
+
+p.neel{
+	font-size:5.4vh;
+    }
+}
+
+
+
+@media only screen  and (max-width:700px){  
+
+#n1{
+	margin: 10px 0px 430px 16px;
+}
+#n2{
+	 margin: 4px 0px 170px 18px;
+}
+#n3{
+	margin: 14px 0px 155px 17px;
+}
+#n4{
+    margin: 31px 20px 330px 18px;
+}
+#n5{
+	margin:20px 0px 50px 20px;
+}
+
+
+}
+
+
+@media only screen and (max-width:560px){  
+
+#n1{
+	margin: 10px 0px 430px 16px;
+}
+#n2{
+	 margin: 4px 0px 170px 18px;
+}
+#n3{
+	margin: 14px 0px 155px 17px;
+}
+#n4{
+    margin: 31px 20px 330px 18px;
+}
+#n5{
+	margin:20px 0px 50px 20px;
+}
+
+}
